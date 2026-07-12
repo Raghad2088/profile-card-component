@@ -8,7 +8,7 @@ body {
   background-color: #19a1ae;
   font-family: "Kumbh Sans", sans-serif;
   background-image:
-    url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
+    url("bg-pattern-top.svg"), url("bg-pattern-bottom.svg");
   background-position:
     right 50vw bottom 50vh,
     left 50vw top 50vh;
@@ -69,7 +69,7 @@ body {
 
 .child-container::before {
   content: "";
-  background-image: url("../images/bg-pattern-card.svg");
+  background-image: url("bg-pattern-card.svg");
   position: absolute;
   left: 0;
   top: 0;
