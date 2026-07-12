@@ -130,9 +130,7 @@ footer {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  width: 100%;
   padding: 25px 20px;
-  background-color: #fff;
 }
 
 footer .text {
