@@ -7,7 +7,6 @@
 body {
   background-color: #19a1ae;
   font-family: "Kumbh Sans", sans-serif;
-  overflow: hidden;
   background-image:
     url("bg-pattern-top.svg"), url("bg-pattern-bottom.svg");
   background-position:
