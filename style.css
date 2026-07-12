@@ -121,9 +121,9 @@ body {
   font-size: 16px;
 }
 
-p.location {
+.child-container p {
   color: #6b7082;
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 10px;
   margin-bottom: 25px;
   text-align: center;
