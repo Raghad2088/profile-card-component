@@ -122,11 +122,13 @@ body {
 }
 
 p.location {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #6b7082;
   font-size: 14px;
   margin-top: 10px;
   margin-bottom: 25px;
-  text-align: center;
 }
 
 footer {
