@@ -58,7 +58,7 @@ body {
   max-width: 350px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: stretch;
   flex-direction: column;
   border-radius: 15px;
   padding-top: 25px;
@@ -134,9 +134,8 @@ footer {
   justify-content: space-around;
   align-items: center;
   border-top: 1px solid #e8e9ec;
-  width: 100%;
+  width: auto;
   padding: 25px 20px;
-  background-color: #fff;
   margin-top: 10px;
 }
 
